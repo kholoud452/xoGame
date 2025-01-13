@@ -1,0 +1,16 @@
+D:\Javascript\XOGameLab\XOGameLab\bin\Debug\net9.0-windows\XOGameLab.exe
+D:\Javascript\XOGameLab\XOGameLab\bin\Debug\net9.0-windows\XOGameLab.deps.json
+D:\Javascript\XOGameLab\XOGameLab\bin\Debug\net9.0-windows\XOGameLab.runtimeconfig.json
+D:\Javascript\XOGameLab\XOGameLab\bin\Debug\net9.0-windows\XOGameLab.dll
+D:\Javascript\XOGameLab\XOGameLab\bin\Debug\net9.0-windows\XOGameLab.pdb
+D:\Javascript\XOGameLab\XOGameLab\obj\Debug\net9.0-windows\XOGameLab.Form1.resources
+D:\Javascript\XOGameLab\XOGameLab\obj\Debug\net9.0-windows\XOGameLab.csproj.GenerateResource.cache
+D:\Javascript\XOGameLab\XOGameLab\obj\Debug\net9.0-windows\XOGameLab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Javascript\XOGameLab\XOGameLab\obj\Debug\net9.0-windows\XOGameLab.AssemblyInfoInputs.cache
+D:\Javascript\XOGameLab\XOGameLab\obj\Debug\net9.0-windows\XOGameLab.AssemblyInfo.cs
+D:\Javascript\XOGameLab\XOGameLab\obj\Debug\net9.0-windows\XOGameLab.csproj.CoreCompileInputs.cache
+D:\Javascript\XOGameLab\XOGameLab\obj\Debug\net9.0-windows\XOGameLab.dll
+D:\Javascript\XOGameLab\XOGameLab\obj\Debug\net9.0-windows\refint\XOGameLab.dll
+D:\Javascript\XOGameLab\XOGameLab\obj\Debug\net9.0-windows\XOGameLab.pdb
+D:\Javascript\XOGameLab\XOGameLab\obj\Debug\net9.0-windows\XOGameLab.genruntimeconfig.cache
+D:\Javascript\XOGameLab\XOGameLab\obj\Debug\net9.0-windows\ref\XOGameLab.dll
