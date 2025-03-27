@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("XOGameLab")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e9cdd6a126b6eca8d9004f52b48b72693f03a7b")]
 [assembly: System.Reflection.AssemblyProductAttribute("XOGameLab")]
 [assembly: System.Reflection.AssemblyTitleAttribute("XOGameLab")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
